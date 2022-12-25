@@ -14,7 +14,7 @@ JIF is a brand new interdisciplinary program at Georgetown Law that places techn
 
 ## Why is this important?
 
-<picture><img alt="Gavel clipart" src="https://user-images.githubusercontent.com/1689183/209475297-ff39411f-90ba-4ebe-b5a6-de5f18f2db3b.png" title="Created with DALL·E: from https://labs.openai.com/s/320lpAJ2REBlIYXlmFtXJ8iW" width="175" align="right"></picture>
+<img alt="Gavel clipart" src="https://user-images.githubusercontent.com/1689183/209475297-ff39411f-90ba-4ebe-b5a6-de5f18f2db3b.png" title="Created with DALL·E: from https://labs.openai.com/s/320lpAJ2REBlIYXlmFtXJ8iW" width="175" align="right" />
 
 Courts provide crucial infrastructure for the [justice platform](https://law.mit.edu/pub/justiceasaplatform): individuals access the courts in order to resolve some of our most weighty conflicts. But the justice platform is in trouble due to our national access to justice crisis. Each year across the United States, [55 million Americans experience 260 million civil legal problems](https://iaals.du.edu/sites/default/files/documents/publications/justice-needs-and-satisfaction-us.pdf)—including issues with eviction, consumer debt, domestic violence, veterans’ benefits, and health care. Yet [ninety-two percent](https://justicegap.lsc.gov/) of low-income individuals facing a legal problem receive inadequate or no legal help, a problem increasingly experienced by the middle class and exacerbated by racial and gender disparities. Court processes are often confusing, not user-friendly, and built with lawyers in mind, even though vanishingly fewer Americans can afford an attorney.
 
