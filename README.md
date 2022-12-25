@@ -1,4 +1,4 @@
-<img alt="Judicial Innovation Fellowship - Georgetown Law" src="https://www.law.georgetown.edu/tech-institute/wp-content/uploads/sites/42/2022/11/Judicial-Innovation-Fellowship-Logo-500x500.png" width="150" align="right" />
+<a href="https://www.law.georgetown.edu/tech-institute/programs/judicial-innovation/"><img alt="Judicial Innovation Fellowship - Georgetown Law" src="https://www.law.georgetown.edu/tech-institute/wp-content/uploads/sites/42/2022/11/Judicial-Innovation-Fellowship-Logo-500x500.png" width="150" align="right" /></a>
 
 <a href="https://twitter.com/JIFGeorgetown"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/company/judicial-innovation-fellowship/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -6,7 +6,7 @@
 
 # 🎉 Meet the Judicial Innovation Fellowship 🎉
 
-Apply to be one of our inaugural fellows of the [Judicial Innovation Fellowship](https://www.law.georgetown.edu/tech-institute/programs/judicial-innovation/) (JIF)!
+Apply to be one of our inaugural fellows at the [Judicial Innovation Fellowship](https://www.law.georgetown.edu/tech-institute/programs/judicial-innovation/) (JIF)!
 
 ## What is JIF?
 
