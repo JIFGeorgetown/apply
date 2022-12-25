@@ -22,7 +22,9 @@ Once placed, we anticipate our fellows will work on projects that improve data c
 
 If interested, join our [Info Session for Technologists and Designers, February 28](https://www.law.georgetown.edu/tech-institute/programs/judicial-innovation/).
 
-You can also star this repository to know when applications open. If you want to receive updates, we have a [mailing list sign up](https://docs.google.com/forms/d/e/1FAIpQLScnBDIWM1G4z-33vo9yuHA_KU9MXrNKWFsKXwN7w-uhSqlfrg/viewform), as well.
+You can also watch this repository to keep informed when applications open.
+
+If you want to receive email updates, we have a [mailing list sign up](https://docs.google.com/forms/d/e/1FAIpQLScnBDIWM1G4z-33vo9yuHA_KU9MXrNKWFsKXwN7w-uhSqlfrg/viewform), as well.
 
 ## I have questions.
 
