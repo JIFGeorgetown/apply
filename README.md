@@ -6,6 +6,8 @@
 
 Apply to be one of our inaugural fellows at the [Judicial Innovation Fellowship](https://www.law.georgetown.edu/tech-institute/programs/judicial-innovation/) (JIF)!
 
+**Note:** Applications for fellows are now open! Read the [job posting](https://www.law.georgetown.edu/tech-institute/initiatives/georgetown-justice-lab/judicial-innovation/fellow-applications/) to learn more about fellow applications, and [click here to apply](https://docs.google.com/forms/d/e/1FAIpQLSepaXIL2UtX5vNqmr0IO2Vm-pdY4lTZoM5f6dvUSGOgXB0NsQ/viewform).
+
 ### What is JIF?
 
 <img alt="Judicial Innovation Fellowship - Georgetown Law" src="https://www.law.georgetown.edu/tech-institute/wp-content/uploads/sites/42/2022/11/Judicial-Innovation-Fellowship-Logo-500x500.png" width="150" align="right" />
@@ -28,9 +30,7 @@ Once placed, we anticipate our fellows will work on projects that improve data c
 
 ### How do I sign up?
 
-If interested, join our [Info Session for Technologists and Designers on February 28](https://georgetown.zoom.us/webinar/register/WN_gRFq1T2SScOC5IQsgq_Htw).
-
-You can also star or watch this GitHub repository to keep informed when applications open.
+Applications for fellows are now open! Read the [job posting](https://www.law.georgetown.edu/tech-institute/initiatives/georgetown-justice-lab/judicial-innovation/fellow-applications/) to learn more about fellow applications, and [click here to apply](https://docs.google.com/forms/d/e/1FAIpQLSepaXIL2UtX5vNqmr0IO2Vm-pdY4lTZoM5f6dvUSGOgXB0NsQ/viewform).
 
 If you want to receive email updates, we have a [mailing list sign up](https://docs.google.com/forms/d/e/1FAIpQLScnBDIWM1G4z-33vo9yuHA_KU9MXrNKWFsKXwN7w-uhSqlfrg/viewform), as well.
 
